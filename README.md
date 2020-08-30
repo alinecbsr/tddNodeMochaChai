@@ -19,9 +19,9 @@
   <a href="#nut_and_bolt-wrench-hammer-Developer">Contributors</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
+<br/>
 
-<p align="center" style="color: #333">
+<p style="color: #333">
 For you, the developer, to write a success test, the important thing is that you follow the steps below:
 <br/>
 1. Create a test
@@ -37,11 +37,10 @@ For you, the developer, to write a success test, the important thing is that you
 6. If necessary, repeat the process from the 1º item.</p>
 <br/>
 
-<h2>
-<img src=".github/redGreenRefactor.png" alt="TDD flow image" width="400px" />
+<h2 align="center">
+<img src=".github/redGreenRefactor.png" alt="TDD flow image" width="300px" />
 </h2>
 <br/>
-
 
 ## :floppy_disk: Technology
 
@@ -60,19 +59,36 @@ This project was developed with the following technologies:
 ## :computer: Project
 
 Using TDD, test functions were developed to test a routine that calculates the value of a plot considering that:
+<br/>
 
 5% interest is paid up to 30 days late;
+<br/>
 10% interest is paid from 31 to 60 days late;
+<br/>
 15% interest is paid after 60 days of delay;
+<br/>
+<br/>
+
+![](https://github.com/alinecbsr/tddNodeMochaChai/blob/master/.github/calculateInterest.gif)
+<br/>
+<br/>
 
 #### 🔢 Commands
 
+<br/>
+
 ##### **`mocha -w`**
+<br/>
+
 >
->It will be possible to view the exception of the tests in the Visual Studio Code terminal
+> It will be possible to view the exception of the tests in the Visual Studio Code terminal
 >
 
+<br/>
+<br/>
+
 ## :nut_and_bolt: :wrench: :hammer: Developer
+<br/>
 
 <table>
   <tr>
